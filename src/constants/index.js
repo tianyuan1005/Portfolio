@@ -17,7 +17,7 @@ import {
   docker,
   comfysloth,
   chat,
-  gym,
+  omnifood,
   threejs,
 } from '../assets'
 
@@ -172,26 +172,26 @@ const projects = [
     live_link: 'https://lustrous-douhua-272285.netlify.app/',
   },
   {
-    name: 'Chat App',
+    name: 'Omnifood',
     description:
-      'A responsive and simple chat app, where you can easily connect and chat with your friends. It can easily create new conversations and add contacts and allow you to send photos.',
+      'A responsive food service, where you can easily get a healthy personalized meal delivered to your door every single day. The smart 365-days-per-year food subscription that will make you eat healthy again. Tailored to your personal tastes and nutritional needs.',
     tags: [
       {
-        name: 'react',
+        name: 'html',
         color: 'blue-text-gradient',
       },
       {
-        name: 'firebase',
+        name: 'css',
         color: 'green-text-gradient',
       },
       {
-        name: 'tailwind',
+        name: 'JavaScript',
         color: 'pink-text-gradient',
       },
     ],
-    image: chat,
-    source_code_link: 'https://github.com/tianyuan1005/Happy_Chat',
-    live_link: 'https://happychat-dde73.web.app/register',
+    image: omnifood,
+    source_code_link: 'hhttps://github.com/tianyuan1005/omnifood',
+    live_link: 'https://glowing-omnifood.netlify.app/',
   },
 ]
 
