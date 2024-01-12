@@ -23,7 +23,7 @@ import threejs from './tech/threejs.svg'
 
 import comfysloth from './comfysloth.png'
 import chat from './chat.png'
-import gym from './gym.png'
+import omnifood from './omnifood.png'
 
 export {
   logo,
@@ -47,7 +47,7 @@ export {
   tailwind,
   typescript,
   threejs,
-  gym,
+  omnifood,
   comfysloth,
   chat,
 }
